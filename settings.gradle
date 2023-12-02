@@ -6,11 +6,11 @@ rootProject.name = 'crft-elevated-potential'
 
 //!!include(':dlog')
 
-//include(':tripleo.elijah.stateful-processor')
+include(':tripleo.elijah.stateful-processor')
 
-//include(':annotation-user')
-//include(':annotation-processing')
+include(':annotation-user')
+include(':annotation-processing')
 
-//include(':annotations')
+include(':annotations')
 
-//include(':elijah-compiler-gen')
+include(':elijah-compiler-gen')
