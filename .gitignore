@@ -1,20 +1,11 @@
 /.idea/**
-/bin/
-/fact.elijah.h
-/doc/
-eljc*out
 /out/
 target
 /output/
-/target-/
-/COMP*/
-/.idea/workspace.xml
-/.idea/gitlab-quickmr.xml
 /.gradle
 build
-/el-fluffy-jubilee.userlibraries
-elijah-lang*txt
-/lib/**
-/buildSrc/**
-/.idea/uiDesigner.xml
-/tripleo.elijah.core-2023.11.elevated-potential.4.pom
+##/lib/**
+##/buildSrc/**
+
+# Ignore Gradle project-specific cache directory
+.gradle
